@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Informatioin about world</title>
+</head>
+<body>
+
+<ul>
+<h1><ins><i>North America</i></h1>
+<ul>
+<li><mark><em>Canada</em></li>
+<li><em><a style="color:purple;" href="https://en.wikipedia.org/wiki/Ottawa">Ottowa</a></em></li> 
+<li><em><a style="color:red;" href="https://en.wikipedia.org/wiki/Ottawa"target='blink_'>Ottowa</a></em></li>
+</ul>
+</ul>
+<hr>
+<ul>
+<h1><em><ins>South America</ins></em></h1>
+<ul>
+<li><mark><em>Argentina</em></li>
+<li><em><a style="color:orange;" href="https://en.wikipedia.org/wiki/Buenos_Aires">Buenos Aires</a></em></li> 
+<li><em><a style="color:green;" href="https://en.wikipedia.org/wiki/Buenos_Aires"target='blink_'>Buenos Aires</a></em></li>
+</ul>
+</ul>
+<hr>
+
+<ul>
+<h1><em><ins>Africa</ins></em></h1>
+<ul>
+<li><mark><em>Egypt</em></li>
+<li><em><a style="color:lightblue;" href="https://en.wikipedia.org/wiki/Cairo">Cairo</a></em></li> 
+<li><em><a style="color:blue;" href="https://en.wikipedia.org/wiki/Cairo"target='blink_'>Cairo</a></em></li>
+</ul>
+</ul>
+<hr>
+
+<ul>
+<h1><em><ins>Australia</ins></em></h1>
+<ul>
+<li><mark><em>Australia</em></li>
+<li><em><a style="color:black;" href="https://en.wikipedia.org/wiki/Canberra">Canberra</a></em></li> 
+<li><em><a style="color:brown;" href="https://en.wikipedia.org/wiki/Canberra"target='blink_'>Canberra</a></em></li>
+</ul>
+</ul>
+<hr>
+
+<ul>
+<h1><em><ins>Europe</ins></em></h1>
+<ul>
+<li><mark><em>Norway</em></li>
+<li><em><a style="color:pink;" href="https://en.wikipedia.org/wiki/Oslo">Oslo</a></em></li> 
+<li><em><a style="color:gray;" href="https://en.wikipedia.org/wiki/Oslo"target='blink_'>Oslo</a></em></li>
+</ul>
+</ul>
+<hr>
+
+<ul>
+<h1><em><ins>Asia</ins></em></h1>
+<ul>
+<li><mark><em>Japan</em></li>
+<li><em><a style="color:MediumSeaGreen;" href="https://en.wikipedia.org/wiki/Tokyo">Tokyo</a></em></li> 
+<li><em><a style="color:violet;" href="https://en.wikipedia.org/wiki/Tokyo"target='blink_'>Tokyo</a></em></li>
+</ul>
+</ul>
+<hr>
+
+
+</body>
+</html>
